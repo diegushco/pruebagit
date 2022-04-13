@@ -1,0 +1,4 @@
+develop o development -> programamos los desarrolladores
+qa -> rama de pruebas para empleados qa o testing
+preprod -> rama que va despues de qa para probar
+prod -> es la rama de produccion

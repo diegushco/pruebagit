@@ -1,0 +1,3 @@
+para crear una nueva rama a partir de otra rama
+
+git checkout -b nombre_de_rama
